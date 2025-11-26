@@ -637,7 +637,7 @@ export function AnalysisDashboard({ analysis, rawData, onFileUpload }: AnalysisD
                   type="number"
                   dataKey="x"
                   name="이용시간"
-                  unit="분"
+                  unit=""
                   stroke="#94a3b8"
                   tick={{ fontSize: 12 }}
                 />
@@ -645,7 +645,7 @@ export function AnalysisDashboard({ analysis, rawData, onFileUpload }: AnalysisD
                   type="number"
                   dataKey="y"
                   name="결제금액"
-                  unit="원"
+                  unit=""
                   stroke="#94a3b8"
                   tick={{ fontSize: 12 }}
                 />

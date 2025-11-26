@@ -240,7 +240,7 @@ export default function PcBangFranchisePage() {
               variant="secondary"
               className="mb-8 px-8 py-3 text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 bg-white/80 backdrop-blur-md border-2 border-blue-200/50 hover:border-purple-200/50 transition-all text-base rounded-full shadow-lg shadow-blue-200/50 font-bold"
             >
-              ✨ 2025년 1분기 가맹점 특별 모집 중
+              ✨ 2026년 1분기 가맹점 특별 모집 중
             </Badge>
             <h1 className="text-6xl md:text-7xl lg:text-8xl font-black mb-8 tracking-tighter text-slate-900 leading-[1.1]">
               데이터 기반 <br />
